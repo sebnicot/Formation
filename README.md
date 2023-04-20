@@ -1,5 +1,8 @@
 # Formation
-https://img.shields.io/github/all-contributors/sebnicot/Formation/main
+## Partie 1
+
+Formation GitHub
+
+## Partie 2 
 
 Ceci est mon répertoire de formation
-Formation GitHub
